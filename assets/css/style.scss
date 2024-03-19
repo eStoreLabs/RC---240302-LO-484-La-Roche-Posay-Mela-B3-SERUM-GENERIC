@@ -609,8 +609,8 @@ $background-color_4: #fff;
       }
     }
     &__single--3 {
-      bottom: -312px;
-      left: 86px;
+      bottom: 40px;
+      left: 69px;
       img {
         height: 375px;
       }
@@ -738,7 +738,7 @@ $background-color_4: #fff;
     }
 
     .es-obligations {
-      margin-top: 250px;
+      margin-top: 150px;
       background-image: url(../img/footer-bg.png);
       background-repeat: no-repeat;
       background-size: cover;
@@ -1015,6 +1015,10 @@ $background-color_4: #fff;
       &__single--3 img {
         height: 380px;
       }
+    }
+
+    .es-obligations {
+      margin-top: 250px;
     }
 
     .es-footer {
