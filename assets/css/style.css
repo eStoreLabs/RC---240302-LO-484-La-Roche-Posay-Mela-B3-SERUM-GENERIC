@@ -76,6 +76,9 @@
 #la-roche.la-roche p > sup {
   font-size: 0.6rem;
 }
+#la-roche.la-roche span > sup {
+  font-size: 0.8em;
+}
 #la-roche.la-roche .es-kv {
   padding: 20px;
   display: flex;
